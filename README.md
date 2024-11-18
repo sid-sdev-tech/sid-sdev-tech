@@ -1,4 +1,4 @@
-👋 Hi, I’m @sid-sdev-tech, I have done my graduation (B.Tech) in Cpmputer Science and Engineering.👀 I’m interested in Software development,
+👋 Hi, I’m @sid-sdev-tech, I have done my graduation (B.Tech) in Computer Science and Engineering.👀 I’m interested in Software development,
 💞️ I’m interested in collaborating with Software development team.. 📫😄..
 
 <!---
